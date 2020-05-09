@@ -24,7 +24,7 @@
 				<f:content>
 					<Panel>
 						<Button id="btnIndia" tooltip=" India StateWise Tracker" type="Transparent" press="onPress"
-							icon="https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/in.png" iconFirst="false"/>
+							icon="https://corona.lmao.ninja/assets/img/flags/in.png" iconFirst="false"/>
 					</Panel>
 				</f:content>
 			</f:SimpleForm>
